@@ -1,0 +1,7 @@
+.bloop
+.dccache
+.history
+.metals
+.vscode
+data/sample.json
+target
